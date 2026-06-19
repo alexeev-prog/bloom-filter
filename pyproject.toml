@@ -1,0 +1,9 @@
+[project]
+name = "bloom-filter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mmh3>=5.2.1",
+]
